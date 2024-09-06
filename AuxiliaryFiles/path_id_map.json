@@ -1,0 +1,917 @@
+{
+  "Files": [
+    {
+      "Name": "sharedassets0.assets",
+      "Assets": [
+        {
+          "PathID": 2,
+          "Name": "bg_night",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 3,
+          "Name": "bird2_0",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 4,
+          "Name": "bird1_1",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 5,
+          "Name": "pipe_up",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6,
+          "Name": "bird0_0",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 7,
+          "Name": "bird1_2",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 8,
+          "Name": "pipe_down",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 9,
+          "Name": "title",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10,
+          "Name": "numbers",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11,
+          "Name": "bg_day",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 12,
+          "Name": "button_play",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 13,
+          "Name": "bird2_2",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 14,
+          "Name": "land",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 15,
+          "Name": "bird1_0",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 16,
+          "Name": "tutorial",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 17,
+          "Name": "bird0_2",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 18,
+          "Name": "bird0_1",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 19,
+          "Name": "white",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 20,
+          "Name": "bird2_1",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 25,
+          "Name": "hit",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 26,
+          "Name": "score",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 27,
+          "Name": "rec_0s",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 28,
+          "Name": "swoosh",
+          "Type": "AudioClip"
+        }
+      ]
+    },
+    {
+      "Name": "globalgamemanagers.assets",
+      "Assets": [
+        {
+          "PathID": 3,
+          "Name": "Sprites-Default",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 4,
+          "Name": "GridLayoutGroup",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 5,
+          "Name": "Scrollbar",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 6,
+          "Name": "EventTrigger",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 7,
+          "Name": "UnityAdsEditorPlaceholder",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 8,
+          "Name": "BaseInputModule",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 9,
+          "Name": "NetworkTransform",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 10,
+          "Name": "Physics2DRaycaster",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 11,
+          "Name": "NetworkDiscovery",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 12,
+          "Name": "MaskableGraphic",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 13,
+          "Name": "BaseRaycaster",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 14,
+          "Name": "NetworkBehaviour",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 15,
+          "Name": "NetworkTransformChild",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 16,
+          "Name": "AspectRatioFitter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 17,
+          "Name": "PointerInputModule",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 18,
+          "Name": "Mask",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 19,
+          "Name": "ToggleGroup",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 20,
+          "Name": "NetworkStartPosition",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 21,
+          "Name": "Outline",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 22,
+          "Name": "NetworkLobbyManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 23,
+          "Name": "NetworkTransformVisualizer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 24,
+          "Name": "NetworkManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 25,
+          "Name": "PhysicsRaycaster",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 26,
+          "Name": "Image",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 27,
+          "Name": "AsyncUtil",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 28,
+          "Name": "EventSystem",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 29,
+          "Name": "LayoutGroup",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 30,
+          "Name": "HorizontalLayoutGroup",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 31,
+          "Name": "Selectable",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 32,
+          "Name": "RectMask2D",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 33,
+          "Name": "Slider",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 34,
+          "Name": "RawImage",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 35,
+          "Name": "GameManger",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 36,
+          "Name": "UIText",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 37,
+          "Name": "PipeMaker",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 38,
+          "Name": "ObjectMove",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 39,
+          "Name": "UIButton",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 40,
+          "Name": "PipeMove",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 41,
+          "Name": "ReloadGame",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 42,
+          "Name": "DebugInfo",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 43,
+          "Name": "Grapedge",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 44,
+          "Name": "PlayerController",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 45,
+          "Name": "BackgroundSetAuto",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 46,
+          "Name": "ScoreAddCheck",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 47,
+          "Name": "LandMove",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 48,
+          "Name": "NetworkManagerHUD",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 49,
+          "Name": "NetworkLobbyPlayer",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 50,
+          "Name": "NetworkIdentity",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 51,
+          "Name": "Graphic",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 52,
+          "Name": "UIBehaviour",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 53,
+          "Name": "InputField",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 54,
+          "Name": "Text",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 55,
+          "Name": "HorizontalOrVerticalLayoutGroup",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 56,
+          "Name": "Dropdown",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 57,
+          "Name": "StandaloneInputModule",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 58,
+          "Name": "NetworkMigrationManager",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 59,
+          "Name": "NetworkProximityChecker",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 60,
+          "Name": "VerticalLayoutGroup",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 61,
+          "Name": "GraphicRaycaster",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 62,
+          "Name": "ScrollRect",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 63,
+          "Name": "Button",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 64,
+          "Name": "Shadow",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 65,
+          "Name": "NetworkAnimator",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 66,
+          "Name": "BaseMeshEffect",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 67,
+          "Name": "LayoutElement",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 68,
+          "Name": "ContentSizeFitter",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 69,
+          "Name": "PositionAsUV1",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 70,
+          "Name": "CanvasScaler",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 71,
+          "Name": "TouchInputModule",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 72,
+          "Name": "Toggle",
+          "Type": "MonoScript"
+        }
+      ]
+    },
+    {
+      "Name": "unity_builtin_extra",
+      "Assets": [
+        {
+          "PathID": 6,
+          "Name": "Normal-VertexLit",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 7,
+          "Name": "Normal-Diffuse",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 19,
+          "Name": "Internal-StencilWrite",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 62,
+          "Name": "Internal-DepthNormalsTexture",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 63,
+          "Name": "Internal-PrePassLighting",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 64,
+          "Name": "Internal-ScreenSpaceShadows",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 65,
+          "Name": "Internal-CombineDepthNormals",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 66,
+          "Name": "Internal-BlitCopy",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 69,
+          "Name": "Internal-DeferredShading",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 74,
+          "Name": "Internal-DeferredReflections",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 75,
+          "Name": "Internal-MotionVectors",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 102,
+          "Name": "Internal-Flare",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 105,
+          "Name": "Internal-Halo",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 9000,
+          "Name": "Internal-GUITextureClip",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 9001,
+          "Name": "Internal-GUITextureClipText",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 9002,
+          "Name": "Internal-GUITexture",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 9003,
+          "Name": "Internal-GUITextureBlit",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 10770,
+          "Name": "UI-Default",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 10782,
+          "Name": "UI-DefaultFont",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 15104,
+          "Name": "CubeBlur",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 15105,
+          "Name": "CubeCopy",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 15106,
+          "Name": "CubeBlend",
+          "Type": "Shader"
+        }
+      ]
+    },
+    {
+      "Name": "unity default resources",
+      "Assets": [
+        {
+          "PathID": 17,
+          "Name": "Internal-ErrorShader",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 68,
+          "Name": "Internal-Clear",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 69,
+          "Name": "Internal-Colored",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 10001,
+          "Name": "Soft",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10101,
+          "Name": "Font",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 10103,
+          "Name": "Font Texture",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10200,
+          "Name": "pSphere1",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10202,
+          "Name": "Cube",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10203,
+          "Name": "pCylinder1",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10204,
+          "Name": "pPlane1",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10205,
+          "Name": "polySurface2",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10206,
+          "Name": "Cylinder",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10207,
+          "Name": "Sphere",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10208,
+          "Name": "Capsule",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10209,
+          "Name": "Plane",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10210,
+          "Name": "Quad",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10211,
+          "Name": "Icosphere",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10212,
+          "Name": "icosahedron",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10213,
+          "Name": "pyramid",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 10400,
+          "Name": "UnityWatermark-small",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10401,
+          "Name": "EscToExit_back",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10402,
+          "Name": "EscToExit_Text",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10403,
+          "Name": "UnitySplash-cube",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10405,
+          "Name": "UnitySplash-free",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10406,
+          "Name": "UnitySplashBack",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10407,
+          "Name": "UnityWatermark-trial",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10408,
+          "Name": "UnityWatermark-beta",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10409,
+          "Name": "UnityWatermark-edu",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10410,
+          "Name": "UnityWatermark-dev",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10411,
+          "Name": "WarningSign",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10413,
+          "Name": "UnityWatermark-proto",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10414,
+          "Name": "UnityWatermarkPlugin-beta",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 10755,
+          "Name": "FrameDebuggerRenderTargetDisplay",
+          "Type": "Shader"
+        },
+        {
+          "PathID": 11001,
+          "Name": "box",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11002,
+          "Name": "button active",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11003,
+          "Name": "button hover",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11004,
+          "Name": "button on hover",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11005,
+          "Name": "button on",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11006,
+          "Name": "button",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11007,
+          "Name": "horizontal scrollbar thumb",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11008,
+          "Name": "horizontal scrollbar",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11009,
+          "Name": "horizontalslider",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11010,
+          "Name": "slider thumb active",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11011,
+          "Name": "slider thumb",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11012,
+          "Name": "slidert humb hover",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11013,
+          "Name": "toggle active",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11014,
+          "Name": "toggle hover",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11015,
+          "Name": "toggle on hover",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11016,
+          "Name": "toggle on",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11017,
+          "Name": "toggle on active",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11018,
+          "Name": "toggle",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11019,
+          "Name": "vertical scrollbar thumb",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11020,
+          "Name": "vertical scrollbar",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11021,
+          "Name": "verticalslider",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11022,
+          "Name": "window on",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11023,
+          "Name": "window",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11024,
+          "Name": "textfield",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11025,
+          "Name": "textfield on",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11026,
+          "Name": "textfield hover",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 11998,
+          "Name": "DeveloperConsole",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 11999,
+          "Name": "UserAuthorizationDialog",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 12001,
+          "Name": "GUISkin",
+          "Type": "MonoScript"
+        }
+      ]
+    },
+    {
+      "Name": "level0",
+      "Assets": []
+    },
+    {
+      "Name": "globalgamemanagers",
+      "Assets": []
+    }
+  ]
+}
